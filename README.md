@@ -3,11 +3,8 @@
 
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-
-      - **Hint:** use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice;
-      - [MySolution](https://leetcode.com/submissions/detail/656740500/)
-
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) - 
+      **Hint:** use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice. [[MySolution](https://leetcode.com/submissions/detail/656740500/)]
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
